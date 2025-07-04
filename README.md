@@ -2,7 +2,7 @@
 
 This repository contains additional materials for the paper:
 
-Bondarenko S., Obiol A., Casamayor E.O., Massana R. Basal fungal clades are everywhere: what 18S ribosomal DNA metabarcoding reveals about cross-system distribution of fungi. 2025
+Bondarenko S., Obiol A., Casamayor E.O., Massana R. Basal fungal clades are everywhere: what 18S rRNA gene metabarcoding reveals about cross-system distribution of fungi. 2025
 
 ## Contents
 
